@@ -1,0 +1,24 @@
+<?php
+use ArmoredCore\WebObjects\Asset;
+use ArmoredCore\WebObjects\ErrMgr;
+use ArmoredCore\WebObjects\Layout;
+use ArmoredCore\WebObjects\URL;
+Layout::includeLayout('header'); ?>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-6">
+            <ul class="nav navbar-nav center-block">
+            <br><br><br><br>
+            <h1>Bem Vindo</h1>
+                <br><br><br><br>
+            <h3>Clique Aqui para Entar</h3>
+
+                <br><br><br>
+                <li class="active"><a href="<?= URL::toRoute('home/login')?>">Entrar</a></li>
+            </ul>
+        </div>
+        <div class="col-md-3"></div>
+    </div>
+</div>
