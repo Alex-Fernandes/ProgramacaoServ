@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7001a1a5-552a-4369-8b2d-3d517ff80e18" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/model/Dado.php" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/model/Dado.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/model/NumerosBloqueio.php" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/model/NumerosBloqueio.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/model/Tabuleiro.php" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/model/Tabuleiro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/controller/RegistoController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/model/Registo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/view/home/index.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view/home/index.phtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,6 +261,7 @@
       <workItem from="1588795530519" duration="2645000" />
       <workItem from="1589271156164" duration="3722000" />
       <workItem from="1590004803252" duration="419000" />
+      <workItem from="1590007501104" duration="5713000" />
     </task>
     <servers />
   </component>
@@ -283,14 +286,18 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="699" y="354" key="NewPhpClassDialog" timestamp="1590012041023">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="699" y="354" key="NewPhpClassDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1590012041023" />
     <state x="625" y="364" key="com.intellij.ide.util.TipDialog" timestamp="1590004803868">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="625" y="364" key="com.intellij.ide.util.TipDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1590004803868" />
-    <state x="738" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590005379050">
+    <state x="738" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590007505840">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="738" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1858.1080@0.0.1858.1080" timestamp="1590005379050" />
+    <state x="738" y="457" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1858.1080@0.0.1858.1080" timestamp="1590007505840" />
   </component>
   <component name="masterDetails">
     <states>
